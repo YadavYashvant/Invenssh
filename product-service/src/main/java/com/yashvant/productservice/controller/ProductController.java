@@ -2,7 +2,6 @@ package com.yashvant.productservice.controller;
 
 import com.yashvant.productservice.dto.ProductRequest;
 import com.yashvant.productservice.dto.ProductResponse;
-import com.yashvant.productservice.model.Product;
 import com.yashvant.productservice.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
