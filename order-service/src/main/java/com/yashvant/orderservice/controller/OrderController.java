@@ -1,4 +1,4 @@
-package com.techie.microservices.order.controller;
+package com.yashvant.orderservice.config;
 
 import com.techie.microservices.order.dto.OrderRequest;
 import com.techie.microservices.order.service.OrderService;

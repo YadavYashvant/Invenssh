@@ -1,4 +1,4 @@
-package com.techie.microservices.order.dto;
+package com.yashvant.orderservice.config;
 
 import java.math.BigDecimal;
 

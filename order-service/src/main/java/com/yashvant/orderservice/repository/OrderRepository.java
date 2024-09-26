@@ -1,4 +1,4 @@
-package com.techie.microservices.order.repository;
+package com.yashvant.orderservice.client;
 
 import com.techie.microservices.order.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;

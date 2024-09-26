@@ -1,4 +1,4 @@
-package com.techie.microservices.order.model;
+package com.yashvant.orderservice.model;
 
 import jakarta.persistence.*;
 import lombok.*;

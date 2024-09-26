@@ -1,4 +1,4 @@
-package com.techie.microservices.order.service;
+package com.yashvant.orderservice.service;
 
 import com.techie.microservices.order.client.InventoryClient;
 import com.techie.microservices.order.dto.OrderRequest;

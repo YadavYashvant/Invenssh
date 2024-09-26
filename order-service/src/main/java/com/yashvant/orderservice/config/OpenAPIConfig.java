@@ -1,4 +1,4 @@
-package com.techie.microservices.order.config;
+package com.yashvant.orderservice.config;
 
 import io.swagger.v3.oas.models.ExternalDocumentation;
 import io.swagger.v3.oas.models.OpenAPI;

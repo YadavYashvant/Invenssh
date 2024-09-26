@@ -1,4 +1,4 @@
-package com.techie.microservices.order.config;
+package com.yashvant.orderservice.config;
 
 import com.techie.microservices.order.client.InventoryClient;
 import io.micrometer.observation.ObservationRegistry;

@@ -1,4 +1,4 @@
-package com.techie.microservices.order.config;
+package com.yashvant.orderservice.config;
 
 import io.micrometer.observation.ObservationRegistry;
 import io.micrometer.observation.aop.ObservedAspect;
