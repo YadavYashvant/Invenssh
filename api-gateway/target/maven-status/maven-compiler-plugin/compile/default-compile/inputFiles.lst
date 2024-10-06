@@ -1,0 +1,3 @@
+/home/mobotronst/IdeaProjects/spring-boot-3-microservices-course/api-gateway/src/main/java/com/techie/microservices/gateway/ApiGatewayApplication.java
+/home/mobotronst/IdeaProjects/spring-boot-3-microservices-course/api-gateway/src/main/java/com/techie/microservices/gateway/config/SecurityConfig.java
+/home/mobotronst/IdeaProjects/spring-boot-3-microservices-course/api-gateway/src/main/java/com/techie/microservices/gateway/routes/Routes.java
