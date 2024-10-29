@@ -37,7 +37,7 @@ Invenssh is built as a microservices-based application with each service handlin
 - **MongoDB Database**: A NoSQL database for document-based data storage used by each service.
 
 ### Architecture Diagram
-![Architecture Diagram](link_to_architecture_diagram.png)
+![YET TO BE MADE](link_to_architecture_diagram.png)
 
 ## Technologies Used
 
