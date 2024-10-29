@@ -114,4 +114,4 @@ Contributions to Invenssh are welcome! Please open an issue or submit a pull req
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+This project is licensed under the BSD-2-CLAUSE License. See [LICENSE](LICENSE) for more information.
